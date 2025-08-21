@@ -1,0 +1,3 @@
+1. Create Google Doc with new links
+2. Add main content for homepage
+3. Replace the E in the word 'games', 'proxies', and anything with an e in it with the cryllic е. right here: 'е'
